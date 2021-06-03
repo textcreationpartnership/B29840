@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Six propositions of undoubted verity, fit to be considered in our present exigency, by all loyall subiects, and conscientious Christians.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29840</idno><idno type="EEBO-CITATION">99826846</idno>
+  <idno type="VID">206060</idno>
+  <idno type="EEBO-PROQUEST">2240856518</idno>
+  
+            <idno type="STC">Wing S3919</idno>
+            <idno type="PROQUEST">99826846</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826846e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1770:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Six propositions of undoubted verity, fit to be considered in our present exigency, by all loyall subiects, and conscientious Christians.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206060:1"/>
+            <head>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ix <hi>Propositions</hi> of <hi>undoubted Verity,</hi> fit to be consider<g ref="char:EOLhyphen"/>ed in our present <hi>Exigency,</hi> by all <hi>Loyall Subiects,</hi> and <hi>Con<g ref="char:EOLhyphen"/>scientious Christians.</hi>
+            </head>
+            <p n="1">1. THat this Parliament is <hi>ipso facto</hi> dissolved by the <hi>Kings death;</hi> He being the Head, Be<g ref="char:EOLhyphen"/>ginning and End of the Parliament, called onely by his Writt, to Confer with Him as His Parliament and Councell about urgent affairs, concerning Him and His King<g ref="char:EOLhyphen"/>dome, and so was it resolved in 1 <hi>H: 4. Rot. Parl:</hi> n. 1. 14. <hi>H: 4. Cooke</hi> 4. Instit: p. 46. &amp; 4. <hi>C.</hi> 4. f. 44. b.</p>
+            <p n="2">2. That immediately upon this Parliaments dissolution by the Kings death; all Commissions <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anted by the King, or by one or both Houses to the <hi>Generall</hi> or <hi>Officers</hi> of the <hi>Army,</hi> the <hi>Commis<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of the <hi>Great Seal</hi> of <hi>England; Judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Kings Courts, Justices</hi> of <hi>Peace, S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eriffes, E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cise<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Customers,</hi> and the like; with all <hi>Committees,</hi> and <hi>Ordinances</hi> of one or both Houses made this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliament, did <hi>actually determine, expire,</hi> and become meerly void in Law to all intents and Pur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ses, and cannot be Continued as good and valid by any Power whatsoever.</p>
+            <p n="3">3. That instantly after the Kings decease, the <hi>Imperiall Crown</hi> of this <hi>Realm</hi> of <hi>England,</hi> and of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Kingdoms, Dominions, and Rights thereunto belonging, was by <hi>inherent Birth-right,</hi> and <hi>Law<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed succession</hi> and <hi>descent</hi> actually vested in the most <hi>Illustrious CHARLES,</hi> PRINCE <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> WALES, being <hi>next lineall Heir</hi> of the <hi>blood Royall</hi> to his Father KING <hi>CHARLES:</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that he is <hi>actuall</hi> KING <hi>thereof,</hi> before any Ceremony of Coronation as is resolved in full <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament, by the Statute of 1 <hi>Jacobi:</hi> Ch. 1. and <hi>by all the Judges of England since. Cooke</hi> 7. Report 10. 11. in <hi>Calvins</hi> Case. Whose <hi>Royall Person</hi> and <hi>Title</hi> to the <hi>Crown</hi> al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Loyall Subjects are bound <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their <hi>Oaths</hi> of <hi>Supremacy, Allegiance</hi> and <hi>Solemn League</hi> and <hi>Covenant,</hi> with their <hi>Estates, Lives,</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>drop of their bloods</hi> to maintain against all Opposers.</p>
+            <p n="4">4. That all <hi>Peers</hi> of the Realm, <hi>Mayors, Sheriffes, Chief Officers</hi> of <hi>Cities</hi> and <hi>Corporations</hi> in this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngdom, are obliged by their <hi>places</hi> and <hi>Allegiance,</hi> without any delayes or excuses, to declare and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oclaime PRINCE <hi>CHARLES</hi> to be RIGHTFULL KING OF ENGLAND, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of all Kingdoms and Rights thereunto belonging; notwithstanding any illegall <hi>prohibitions <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> menaces</hi> to the contrary by any <hi>usurped Power</hi> whatsoever; under pain of Being Guilty of <hi>High <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>son,</hi> and forfeiting their <hi>City</hi> and <hi>Corporation Charters,</hi> in case of supine neglect or refusall there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through Fear, Terror or any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inister respect.</p>
+            <p n="5">5. That till KING <hi>CHARLES</hi> be settled in his Throne, or give other Order, the <hi>present <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vernment</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Kingdom is legally vested onely in the Lords and Peers of the Realm, being by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance, Custome and Law in such case, the <hi>Kings</hi> and <hi>Kingdoms great Councell,</hi> to whose lawfull <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmands all other Subjects ought to yeeld ready Obedience.</p>
+            <p n="6">6. That every professed actuall endevour by force or otherwise <hi>to alter the Fundamentall Monar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all Government, Laws,</hi> and <hi>Legall style,</hi> and <hi>proceedings</hi> of this Realm; and to introduce any new Government, or <hi>arbitrary proceedings</hi> contrary thereunto, is no lesse then <hi>High Treason,</hi> and so decla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and resolved by the last <hi>Parliament,</hi> in the Cases of <hi>STRAFFORD</hi> and <hi>CANTERBƲ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Y,</hi> the losse of whose Heads (yet fresh in memory) should deterr all others from pursuing their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rses and out-stripping them therein; they being as great, potent, and as farr out of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch of danger and Justice, in humane probability, as any of our <hi>present Grandees.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
